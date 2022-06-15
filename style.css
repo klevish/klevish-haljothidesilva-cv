@@ -1,5 +1,6 @@
 body{
     font-family: 'Slabo 27px', serif;
+    margin: 20px;
 }
 .cadrecv{
     display: flex;
@@ -24,6 +25,11 @@ body{
     width: 2px;
     height: 1000px;
 }       
+.titre0{
+    color:#00CED1;
+    font-weight: 550;
+    font-size: 29px;
+}
 .titre1{
     color:black;
     font-weight: 550;
@@ -32,7 +38,25 @@ body{
     color:#00CED1;
     font-weight: 550;
 }
+.titre3{
+    font-weight: 700;
+}
+
 a{
     text-decoration: none;
     color:black;
+}
+.bar{
+    height: 1px;
+    width: 90%;
+    margin: 0px 10px 0px 10px;
+    background-color: #000;
+}
+.div_img{
+    display: inline-flex;
+    justify-content: center;
+    width: 100%;
+}
+.img{
+    margin: 10px;
 }
