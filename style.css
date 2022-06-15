@@ -1,0 +1,38 @@
+body{
+    font-family: 'Slabo 27px', serif;
+}
+.cadrecv{
+    display: flex;
+    justify-content: center;
+    
+    height: 1100px;
+}
+.colonne_gauche{
+    width: 250px;
+    padding-left: 15px;
+    padding-right: 15px;
+}
+.colonne_droite{
+
+    width: 500px;
+    height: 1000px;
+    padding-left: 15px;
+    padding-right: 15px;
+}
+.colonne_milieu{
+    color: coral;
+    width: 2px;
+    height: 1000px;
+}       
+.titre1{
+    color:black;
+    font-weight: 550;
+}
+.titre2{
+    color:#00CED1;
+    font-weight: 550;
+}
+a{
+    text-decoration: none;
+    color:black;
+}
